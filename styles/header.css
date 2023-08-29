@@ -1,0 +1,35 @@
+.header{
+    height:55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(29, 207, 235);
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    position: fixed;
+}
+.right-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 220px;
+    padding: 20px;
+}
+.icon-links{
+    height: 24px;
+}
+.left-section{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 200px;
+        padding: 20px;
+}
+.text-links{
+    
+    font-family: 'Roboto', sans-serif;
+    
+}
