@@ -45,7 +45,7 @@
     top: 0;
     left: 0;
     right: 0;
-    \background-image: linear-gradient(to bottom right, red, yellow);background-image: linear-gradient(to bottom right, red, yellow);
+    background-image: linear-gradient(to bottom right, red, yellow);background-image: linear-gradient(to bottom right, red, yellow);
 }
 .self-pic{
     width: 300px;
