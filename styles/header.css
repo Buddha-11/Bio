@@ -41,11 +41,11 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: blueviolet;
+    
     top: 0;
     left: 0;
     right: 0;
-    background-image: linear-gradient(to bottom right, red, yellow);background-image: linear-gradient(to bottom right, red, yellow);
+    
 }
 .self-pic{
     width: 300px;
@@ -54,10 +54,10 @@
 .middle-board{
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    background-color: rgb(189, 37, 37);
-    
-    height: 300px;
+    align-items:center;
+    flex-direction: row;
+    padding: 0%;
+    height: 400px;
 }
 .h:visited{
     color: black;
