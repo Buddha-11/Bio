@@ -54,10 +54,17 @@
 .middle-board{
     display: flex;
     justify-content: space-around;
+<<<<<<< HEAD
     align-items:center;
     flex-direction: row;
     padding: 0%;
     height: 400px;
+=======
+    align-items: center;
+    
+    
+    height: 300px;
+>>>>>>> 73803e66dc68478a5175dc5e32c14b8f01e2fe6e
 }
 .h:visited{
     color: black;
