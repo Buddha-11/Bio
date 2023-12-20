@@ -4,7 +4,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(59, 238, 134);
+    background-color: rgb(136, 136, 215);
     top: 0;
     left: 0;
     right: 0;
@@ -45,6 +45,15 @@
     top: 0;
     left: 0;
     right: 0;
+    
+}
+.mid-board
+{
+    display: flex;
+    
+    flex-direction: row;
+    justify-content:center;
+    align-items:center;
     
 }
 .self-pic{
